@@ -31,7 +31,7 @@ SKILL_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_FONTSDIR = os.path.join(SKILL_DIR, 'assets', 'fonts')
 
 SAMPLE = [{'start': 0, 'end': 600000,
-           'zh': '这是一条中文字幕样例，用来预览样式效果',
+           'zh': '这是一条中文字幕样例',
            'src': 'This is a sample subtitle line\nused to preview the style.'}]
 
 
