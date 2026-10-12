@@ -1,0 +1,11 @@
+# 使用者私密文件（cookie 属使用者本人，绝不入库）
+secrets/cookies.txt
+secrets/*.json
+out.json
+
+# 生成物：字体为第三方下载/派生，不入库（见 README「首次使用」）
+assets/fonts/
+
+# Python
+__pycache__/
+*.py[cod]
